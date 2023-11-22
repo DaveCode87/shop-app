@@ -2,7 +2,7 @@ function App() {
 
   return (
     <div className="page">
-      <div className="title">UIKIT Davide</div>
+      <div className="title">UIKIT</div>
         <table className="table-auto w-full hover">
             <thead>
             <tr>
