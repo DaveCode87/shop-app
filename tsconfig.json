@@ -20,7 +20,7 @@
         "./src/model/*"
       ],
       "@/shared/*": [
-        "./src/shared/*"
+        "./src/shared/index"
       ],
       "@/services/*": [
         "./src/services/*"
